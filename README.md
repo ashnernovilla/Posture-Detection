@@ -47,10 +47,10 @@ pip install mediapipe opencv-python pandas scikit-learn
 
 _Include a screenshot of your posture detection interface here:_
 
-<b> Normal Position </b>
+<b> Normal Position </b> <br>
 ![image](https://github.com/user-attachments/assets/5a693653-8487-4ebc-8a77-f452fc94b9d0)
 
-<b> Surrender Position </b>
+<b> Surrender Position </b> <br>
 ![image](https://github.com/user-attachments/assets/a43274a5-5d95-4af4-b4a9-d26bc71745ae)
 
 
